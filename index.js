@@ -6,6 +6,8 @@ function dateAkan(){
     var yy =(document.getElementById("Id2").value);
     var mm =(document.getElementById("Id3").value);
     var dd =(document.getElementById("Id4").value); 
+    var gender =(document.getElementById("Id5").value);
+    
     
     
 }
