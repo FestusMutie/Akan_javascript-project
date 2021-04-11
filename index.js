@@ -7,6 +7,7 @@ function dateAkan(){
     var mm =(document.getElementById("Id3").value);
     var dd =(document.getElementById("Id4").value); 
     var gender =(document.getElementById("Id5").value);
+    var result =day(cc,yy,mm,dd).toFixed();
     
     
     
