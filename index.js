@@ -8,6 +8,8 @@ function dateAkan(){
     var dd =(document.getElementById("Id4").value); 
     var gender =(document.getElementById("Id5").value);
     var result =day(cc,yy,mm,dd).toFixed();
+    var males = ["Kwasi", "kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
+  var females = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
     
     
     
