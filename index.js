@@ -39,6 +39,11 @@ else if (gender == "male" && result == 1) {
     alert(females[5]);
   } else if (gender == "female" && result == 6) {
     alert(females[6]);
+    else {
+        alert("null");
+      }
+    
+  
     
     
     
