@@ -10,6 +10,10 @@ function dateAkan(){
     var result =day(cc,yy,mm,dd).toFixed();
     var males = ["Kwasi", "kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
   var females = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
+  if (gender =="male" && result == 0){
+      alert(males[0]);
+      
+  }
     
     
     
