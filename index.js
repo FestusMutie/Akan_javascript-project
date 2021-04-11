@@ -5,6 +5,7 @@ function dateAkan(){
     var cc =(document.getElementById("Id1").value);
     var yy =(document.getElementById("Id2").value);
     var mm =(document.getElementById("Id3").value);
+    var dd =(document.getElementById("Id4").value); 
     
     
 }
