@@ -4,6 +4,7 @@ function day (CC,YY,MM,DD){
 function dateAkan(){
     var cc =(document.getElementById("Id1").value);
     var yy =(document.getElementById("Id2").value);
+    var mm =(document.getElementById("Id3").value);
     
     
 }
