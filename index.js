@@ -42,9 +42,8 @@ else if (gender == "male" && result == 1) {
     else {
         alert("null");
       }
+    }
     
   
     
     
-    
-}
