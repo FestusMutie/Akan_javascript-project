@@ -9,7 +9,7 @@ h1{
 ul{
     color: darkred;
     margin-left: 20%;
-    background-color: darkslategray;
+    background-color: blue;
 }
 #names{
     display: flex;
