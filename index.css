@@ -6,6 +6,9 @@ h1{
     color:darkred;
     margin-left: 30%;
 }
+.topic>p{
+    margin-left: 20%;
+}
 ul{
     color: darkred;
     margin-left: 20%;
