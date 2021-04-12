@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://content.r9cdn.net/rimg/dimg/17/74/0ca6e469-city-30651-1632b88f203.jpg?width=1750&height=1000&xhint=2635&yhint=1507&crop=true);
+}
+
+h1{
+    color:darkred;
+}
+ul{
+    color: darkred;
+}
+#names{
+    display: flex;
+}
+.form{
+    margin-left: 60%;
+}
+form>p{
+    color: darkred;
+}
