@@ -7,7 +7,7 @@ function validateForm() {
     let day = document.forms["kanName"]["day"].value;
     if (year == "" || month == "" || day == "") {
         console.log()
-      alert("Kind fill in all the details correctly");
+      alert("Kindly fill in all the details correctly");
       return false;
     }else{
         getUserInput()
